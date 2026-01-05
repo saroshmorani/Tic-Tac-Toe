@@ -1,4 +1,4 @@
-# Multiplayer Tic Tac Toe Game (C Language)
+# Multiplayer TIC TAC TOE Game (C Language)
 
 ## Table of Contents
 - Overview
@@ -13,12 +13,12 @@
 
 
 ## Overview
-This project is a console-based **Multiplayer Tic Tac Toe game** developed in **C language**. It supports **2-player, 3-player, and 4-player modes** with different board sizes. The game includes a menu-driven interface, leaderboard tracking, instructions, and file handling to display a banner.
+This project is a console-based **Multiplayer TIC TAC TOE game** developed in **C language**. It supports **2 player, 3 player, and 4 player modes** with different board sizes. The game includes a menu-driven interface, leaderboard tracking, instructions, and file handling to display a banner.
 
 This project demonstrates core programming concepts such as:
 - Arrays and strings
 - Functions and modular programming
-- File handling (`FILE*`, `fopen`, `fgets`)
+- File handling
 - Input validation and error handling
 - Game logic and control flow
 
