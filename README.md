@@ -67,3 +67,5 @@ This project demonstrates core programming concepts such as:
 6. Results are updated automatically in the leaderboard.
 
 ## Contibuters
+[![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/180005129?v=4&h=80&fit=cover&mask=circle&maxage=7d)](https://github.com/saroshmorani)
+[![](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/179925977?&v=4&h=80&fit=cover&mask=circle&maxage=7d)](https://github.com/eshalad01)
