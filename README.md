@@ -1,2 +1,69 @@
-# Tic-Tac-Toe
-# A straightforward two-player game, Tic-Tac-Toe involves players marking squares on a 3x3 grid with either a 'X' or a 'O'. Being the first person to receive three of their marks in a row—horizontal, vertical, or diagonal—is the goal. The goal of this project is to create a digital version of the game with an intuitive user interface. In addition to a multiplayer option where two players can compete, the game will feature a simple algorithm for single-player play against the computer. In order to improve scalability, the game will be created using C programme language and an object-oriented design methodology.
+# Multiplayer Tic Tac Toe Game (C Language)
+
+## Table of Contents
+- Overview
+- Features
+- Game Modes
+- How to Play
+- File Structure
+- Installation & Execution
+- Screenshots / Demo
+- Future Improvements
+- Contributors
+
+
+## Overview
+This project is a console-based **Multiplayer Tic Tac Toe game** developed in **C language**. It supports **2-player, 3-player, and 4-player modes** with different board sizes. The game includes a menu-driven interface, leaderboard tracking, instructions, and file handling to display a banner.
+
+This project demonstrates core programming concepts such as:
+- Arrays and strings
+- Functions and modular programming
+- File handling (`FILE*`, `fopen`, `fgets`)
+- Input validation and error handling
+- Game logic and control flow
+
+
+## Features
+- Interactive menu system
+- 2, 3, and 4 player game modes
+- Dynamic board display for each mode
+- Input validation for invalid moves
+- Win and draw detection
+- Leaderboard for all game modes
+- Banner display using file handling
+- Replay option without restarting the program
+
+
+## Game Modes
+
+### 2 Player Mode
+- Board Size: 3×3
+- Symbols:
+  - X, O
+- Winning Condition: 3 in a row
+
+### 3 Player Mode
+- Board Size: 4×4
+- Symbols:
+  - X, O, A
+- Winning Condition: 4 in a row
+
+### 4 Player Mode
+- Board Size: 5×5
+- Symbols:
+  - X, O, A, Y
+- Winning Condition: 5 in a row
+
+## How to Play
+1. Run the program.
+2. Select an option from the main menu:
+   - Start Game
+   - View Leaderboard
+   - Instructions
+   - Exit
+3. Choose the number of players (2–4).
+4. Players take turns entering a number corresponding to an empty board position.
+5. The game continues until a player wins or the match ends in a draw.
+6. Results are updated automatically in the leaderboard.
+
+## Contibuters
